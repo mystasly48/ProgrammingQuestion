@@ -2,6 +2,9 @@
 入門向けの簡単な問題を出しています。  
 お時間あれば挑戦してみてください。
 
+## 問題一覧
+[Part1 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part1/Question.txt)
+
 ## 解き方
 
 ### Part\#\\Question.txt
@@ -30,14 +33,14 @@
 #### 承諾例
 ```csharp
 using System;
-public class Main {
+public class Program {
   public static void main(string[] args) {
     Console.WriteLine("Hello, World!");
   }
 }
 ```
 ```csharp
-public class Main {
+public class Program {
   public static void main(string[] args) {
     System.Console.Write("Hello, ");
     System.Console.WriteLine("World!");
@@ -45,5 +48,18 @@ public class Main {
 }
 ```
 
-## 問題一覧
-[Part1 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part1/Question.txt)
+#### 拒否例
+```csharp
+public class Program {
+  public static void main(string[] args) {
+    System.Console.WriteLine("Hello, World!");
+  }
+}
+```
+```csharp
+public class Program {
+  public static void main(string[] args) {
+    System.Console.WriteLine("Hello, World!"); // 文字列 "Hello, World!" を出力
+  }
+}
+```
