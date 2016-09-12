@@ -3,7 +3,9 @@
 お時間あれば挑戦してみてください。
 
 ## 問題一覧
-[Part1 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part1/Question.txt)
+[Part1 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part1/Question.txt)  
+
+[Part2 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part2/Question.txt)
 
 ## 解き方
 
@@ -34,14 +36,14 @@
 ```csharp
 using System;
 public class Program {
-  public static void main(string[] args) {
+  public static void Main() {
     Console.WriteLine("Hello, World!");
   }
 }
 ```
 ```csharp
 public class Program {
-  public static void main(string[] args) {
+  public static void Main() {
     System.Console.Write("Hello, ");
     System.Console.WriteLine("World!");
   }
@@ -51,14 +53,14 @@ public class Program {
 #### 拒否例
 ```csharp
 public class Program {
-  public static void main(string[] args) {
+  public static void Main() {
     System.Console.WriteLine("Hello, World!");
   }
 }
 ```
 ```csharp
 public class Program {
-  public static void main(string[] args) {
+  public static void Main() {
     System.Console.WriteLine("Hello, World!"); // 文字列 "Hello, World!" を出力
   }
 }
