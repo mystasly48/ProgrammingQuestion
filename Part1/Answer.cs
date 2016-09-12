@@ -1,6 +1,6 @@
 using System;
 public class Program {
-  public static void main(string[] args) {
+  public static void Main(string[] args) {
     var str = Console.ReadLine(); // 入力を変数に代入（string型変数）
     var array = str.Split(' ');   // スペースで分割して配列に代入（string型変数からstring型配列）
     var result = 0;               // 足し算していく変数を宣言（int型変数）
