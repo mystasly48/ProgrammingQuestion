@@ -7,6 +7,8 @@
 
 [Part2 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part2/Question.txt)
 
+[Part3 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part3/Question.txt)
+
 ## 解き方
 
 ### Part\#\\Question.txt
