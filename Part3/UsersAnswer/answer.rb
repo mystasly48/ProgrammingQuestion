@@ -1,3 +1,1 @@
-(N, m, a = gets, gets.chomp.split(' '), [])[1].map{ |v| a << (v * 1.08).round(0) }
-
-puts a.reduce(:+)
+ puts ((n, m = gets, gets.chomp.split(' ').map(&:to_i))[1].reduce{ |sum, n| n + (sum *= 1.08)}).round(0)
