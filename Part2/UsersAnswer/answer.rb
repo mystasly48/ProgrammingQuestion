@@ -1,1 +1,1 @@
-puts rand(1..(gets.chomp.to_i))
+puts rand(0..gets.chomp.to_i)
