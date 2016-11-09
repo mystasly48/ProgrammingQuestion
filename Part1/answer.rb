@@ -1,1 +1,1 @@
-puts (gets.chomp.split(' ').reduce(:+))
+puts gets.chomp.split(' ').map(&:to_i).reduce(:+)
