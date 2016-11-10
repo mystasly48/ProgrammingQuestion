@@ -3,11 +3,11 @@
 お時間あれば挑戦してみてください。
 
 ## 問題一覧
-[Part1 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part1/Question.txt)  
+[Part1 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part1/)  
 
-[Part2 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part2/Question.txt)
+[Part2 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part2/)
 
-[Part3 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part3/Question.txt)
+[Part3 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part3/)
 
 ## 解き方
 
