@@ -1,0 +1,1 @@
+puts ('A'..'Z').to_a.sample(gets.to_i).join(' ')
