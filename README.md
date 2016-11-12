@@ -13,6 +13,8 @@
 
 [Part5 Question](https://github.com/mystasly48/ProgrammingQUestion/blob/master/Part5/)
 
+[Part6 Question](https://github.com/mystasly48/ProgrammingQUestion/blob/master/Part6/)
+
 ## 解き方
 
 ### Part\#\\Readme.md

@@ -1,0 +1,1 @@
+puts (gets.chomp =~ /#{gets.chomp}/ ? true : false)
