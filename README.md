@@ -11,6 +11,12 @@
 
 [Part4 Question](https://github.com/mystasly48/ProgrammingQUestion/blob/master/Part4/)
 
+[Part5 Question](https://github.com/mystasly48/ProgrammingQUestion/blob/master/Part5/)
+
+[Part6 Question](https://github.com/mystasly48/ProgrammingQUestion/blob/master/Part6/)
+
+[Part7 Question](https://github.com/mystasly48/ProgrammingQUestion/blob/master/Part7/)
+
 ## 解き方
 
 ### Part\#\\Readme.md
@@ -23,6 +29,7 @@
 
 ### 実行する
 問題の通りに自分で入力して実行してみてください。  
+入力されることを仮定しているだけですのでご自分で確認される必要があります。  
 
 ### 分からない...
 チョコッと解答例を見てみるのも良いかもしれません。  
