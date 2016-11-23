@@ -19,6 +19,8 @@
 
 [Part8 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part8/)
 
+[Part9 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part9/)
+
 ## 解き方
 
 ### Part\#\\Readme.md
