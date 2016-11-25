@@ -46,38 +46,4 @@
 よろしければ `Part#\UsersAnswer\` にて、ファイル名をユーザー名にして PullRequest をしてください！  
 *※ 複数の回答を提出する場合にはのユーザー名のあとに数値をつけてください。例：`mystasly48_2.cs`*  
 *※ `UsersAnswer` フォルダは存在しない場合があります。最初の方が作っていただきますようお願いします。*  
-*※ 過去に全く同じ解き方があった場合は拒否とさせていただきます。少しでも違う処理をしていた場合には承諾いたします。*  
-
-#### 承諾例
-```csharp
-using System;
-public class Program {
-  public static void Main() {
-    Console.WriteLine("Hello, World!");
-  }
-}
-```
-```csharp
-public class Program {
-  public static void Main() {
-    System.Console.Write("Hello, ");
-    System.Console.WriteLine("World!");
-  }
-}
-```
-
-#### 拒否例
-```csharp
-public class Program {
-  public static void Main() {
-    System.Console.WriteLine("Hello, World!");
-  }
-}
-```
-```csharp
-public class Program {
-  public static void Main() {
-    System.Console.WriteLine("Hello, World!"); // 文字列 "Hello, World!" を出力
-  }
-}
-```
+*※ 以前は同じ解き方では承諾しないとしていましたが、現在はすべての回答を承諾するようにしました。
