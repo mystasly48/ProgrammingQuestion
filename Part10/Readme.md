@@ -1,9 +1,9 @@
 # 第１０問 - Part10
 
 ## 問題内容
-１行目（s）と２行目（t）の２行、スペース区切りで、年（year）・月（month）・日（day）・時（hour）・分（minute）・秒（second）、が入力されます。
-s から t までの間の時間（totalHours）を切り上げで出力してください。
-year は４桁固定で、month, day, hour, minute, second は２桁固定です。２４時間表記です。
+１行目（s）と２行目（t）の２行、スペース区切りで、年（year）・月（month）・日（day）・時（hour）・分（minute）・秒（second）、が入力されます。  
+s から t までの間の時間（totalHours）を切り上げで出力してください。  
+year は４桁固定で、month, day, hour, minute, second は２桁固定です。２４時間表記です。  
 
 ## 入力条件
 ```
