@@ -9,17 +9,19 @@
 
 [Part3 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part3/)
 
-[Part4 Question](https://github.com/mystasly48/ProgrammingQUestion/blob/master/Part4/)
+[Part4 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part4/)
 
-[Part5 Question](https://github.com/mystasly48/ProgrammingQUestion/blob/master/Part5/)
+[Part5 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part5/)
 
-[Part6 Question](https://github.com/mystasly48/ProgrammingQUestion/blob/master/Part6/)
+[Part6 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part6/)
 
-[Part7 Question](https://github.com/mystasly48/ProgrammingQUestion/blob/master/Part7/)
+[Part7 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part7/)
 
 [Part8 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part8/)
 
 [Part9 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part9/)
+
+[Part10 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part10/)
 
 ## 解き方
 
