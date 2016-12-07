@@ -9,17 +9,21 @@
 
 [Part3 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part3/)
 
-[Part4 Question](https://github.com/mystasly48/ProgrammingQUestion/blob/master/Part4/)
+[Part4 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part4/)
 
-[Part5 Question](https://github.com/mystasly48/ProgrammingQUestion/blob/master/Part5/)
+[Part5 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part5/)
 
-[Part6 Question](https://github.com/mystasly48/ProgrammingQUestion/blob/master/Part6/)
+[Part6 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part6/)
 
-[Part7 Question](https://github.com/mystasly48/ProgrammingQUestion/blob/master/Part7/)
+[Part7 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part7/)
 
 [Part8 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part8/)
 
 [Part9 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part9/)
+
+[Part10 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part10/)
+
+[Part11 Question](https://github.com/mystasly48/ProgrammingQuestion/blob/master/Part11/)
 
 ## 解き方
 
@@ -46,38 +50,4 @@
 よろしければ `Part#\UsersAnswer\` にて、ファイル名をユーザー名にして PullRequest をしてください！  
 *※ 複数の回答を提出する場合にはのユーザー名のあとに数値をつけてください。例：`mystasly48_2.cs`*  
 *※ `UsersAnswer` フォルダは存在しない場合があります。最初の方が作っていただきますようお願いします。*  
-*※ 過去に全く同じ解き方があった場合は拒否とさせていただきます。少しでも違う処理をしていた場合には承諾いたします。*  
-
-#### 承諾例
-```csharp
-using System;
-public class Program {
-  public static void Main() {
-    Console.WriteLine("Hello, World!");
-  }
-}
-```
-```csharp
-public class Program {
-  public static void Main() {
-    System.Console.Write("Hello, ");
-    System.Console.WriteLine("World!");
-  }
-}
-```
-
-#### 拒否例
-```csharp
-public class Program {
-  public static void Main() {
-    System.Console.WriteLine("Hello, World!");
-  }
-}
-```
-```csharp
-public class Program {
-  public static void Main() {
-    System.Console.WriteLine("Hello, World!"); // 文字列 "Hello, World!" を出力
-  }
-}
-```
+*※ 以前は同じ解き方では承諾しないとしていましたが、現在はすべての回答を承諾するようにしました。*
