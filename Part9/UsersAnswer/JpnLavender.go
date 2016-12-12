@@ -11,7 +11,7 @@ import(
 var input = bufio.NewScanner(os.Stdin)
 
 func main() {
-    _ := gets()
+    gets()
     parseValues := valueSplitParse(gets())
     answer := comparison(parseValues)
     fmt.Println(answer[0], answer[1])
