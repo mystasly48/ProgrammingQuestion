@@ -1,35 +1,38 @@
 package main
 
-import(
-    "fmt"
-    "os"
-    "bufio"
-    "strings"
-    "strconv"
+import (
+	"bufio"
+	"fmt"
+	"os"
+	"strconv"
+	"strings"
 )
 
-var input = bufio.NewScanner(os.Stdin)
-
-func gets() string {
-    if input.Scan() {
-        return input.Text()
-    } else {
-        return "NotInputData"
-    }
-}
-
-func calculation(inputValue []string) int {
-    var result int
-    for i := 0; i < len(inputValue); i++ {
-        i, _ := strconv.Atoi(inputValue[i])
-        result += i
-    }
-    return result
-}
+var sc = bufio.NewScanner(os.Stdin)
 
 func main() {
-    inputValue := strings.Split(gets(), " ")
-    anwer := calculation(inputValue)
-    fmt.Println(anwer)
+	processing(gets())
 }
 
+func processing(inputValue string) {
+	var splitValue []string = strings.Split(inputValue, " ")
+	resultValue := make(chan int)
+	var result int
+	go func() {
+		for _, v := range splitValue {
+			value, _ := strconv.Atoi(v)
+			result += value
+		}
+		resultValue <- result
+	}()
+	num := <-resultValue
+	fmt.Printf("%v", num)
+}
+
+func gets() string {
+	if sc.Scan() {
+		return sc.Text()
+	} else {
+		return "NoInputData"
+	}
+}
