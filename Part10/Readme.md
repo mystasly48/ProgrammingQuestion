@@ -8,7 +8,7 @@ year は４桁固定で、month, day, hour, minute, second は２桁固定です
 ## 入力条件
 ```
 s <= t
-0000 <= year <= 3000
+0001<= year <= 3000
 01 <= month <= 12
 01 <= day <= 31
 00 <= hour <= 23
