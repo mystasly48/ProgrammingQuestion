@@ -36,6 +36,7 @@ func time_processing(time_1 string, time_2 string) time.Duration {
 func main() {
 	time_1 := gets()
 	time_2 := gets()
-	answer := time_processing(time_1, time_2)
+	times := time_processing(time_1, time_2)
+	answer := int(times.Hours())
 	fmt.Println(answer)
 }
