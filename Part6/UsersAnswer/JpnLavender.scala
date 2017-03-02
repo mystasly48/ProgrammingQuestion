@@ -1,5 +1,5 @@
 object Main extends App{
-  var string = readLine().toInt
-  var char = readLine().toInt
+  var string = readLine()
+  var char = readLine()
   println(string.contains(char))
 }
