@@ -10,5 +10,5 @@ object Main extends App{
       max = n(i)
     }
   }
-  println(max + " " + min)
+  println(min + " " + max)
 }
