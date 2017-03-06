@@ -4,4 +4,4 @@ input.uniq.each{ |i| cards.delete(i) }
 a = input.group_by{ |it| it }
 a.each_value{ |v| add <<  v[0] if v.size % 2 != 0 }
 add
-puts (add.empty? && cards.empty? ? 0 : (cards + add).join(" "))
+puts (add.empty? && cards.empty? ? 0 : (cards + add).sort.join(" "))
