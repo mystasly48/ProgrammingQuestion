@@ -19,21 +19,21 @@ end
 
 class App
   def initialize
-    @ちくび, @ふぇら = gets.chomp.split("").map(&:to_i)
+    @ちくび, @ふぇら = gets.chomp.split(" ").map(&:to_i)
     @ちんこ = Array.new
     @巨乳 = String.new
   end
 
   def main
-    get_table(@ちくび)
+    get_table(@ふぇら)
     target = @巨乳.ちんぽぉ
     y = target.oppai_y(@ちんこ)
     x = target.oppai_x(@ちんこ[y-1])
     puts ("#{x} #{y}")
   end
 
-  def get_table(ちくび)
-    ちくび.times{ @ちんこ << gets.chomp }
+  def get_table(ふぇら)
+    ふぇら.times{ @ちんこ << gets.chomp }
     @巨乳 = @ちんこ.join("")
     return @巨乳
   end
