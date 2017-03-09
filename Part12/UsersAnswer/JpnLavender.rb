@@ -1,5 +1,3 @@
-require 'pry'
-
 class String
   def ちんぽぉ
     tables = self.split("").group_by{ |it| it }
