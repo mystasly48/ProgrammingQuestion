@@ -8,8 +8,8 @@ public class Program {
       balance -= price;
     }
     int[] money = { 5000, 1000, 500, 100, 50, 10, 5, 1 };
-    int[] count = new [money.Length];
-    for (int i = 0; i < counts.Length; i++) {
+    int[] count = new int[money.Length];
+    for (int i = 0; i < count.Length; i++) {
       count[i] = getCount(ref balance, money[i]);
     }
     Console.WriteLine(string.Join(" ", count));
